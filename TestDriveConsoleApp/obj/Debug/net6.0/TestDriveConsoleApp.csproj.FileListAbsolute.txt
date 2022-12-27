@@ -1,0 +1,15 @@
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.csproj.AssemblyReference.cache
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.AssemblyInfoInputs.cache
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.AssemblyInfo.cs
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\bin\Debug\net6.0\TestDriveConsoleApp.exe
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\bin\Debug\net6.0\TestDriveConsoleApp.deps.json
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\bin\Debug\net6.0\TestDriveConsoleApp.runtimeconfig.json
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\bin\Debug\net6.0\TestDriveConsoleApp.dll
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\bin\Debug\net6.0\TestDriveConsoleApp.pdb
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.dll
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\refint\TestDriveConsoleApp.dll
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.pdb
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\TestDriveConsoleApp.genruntimeconfig.cache
+C:\Users\30697\source\repos\TestDriveConsoleApp\TestDriveConsoleApp\obj\Debug\net6.0\ref\TestDriveConsoleApp.dll
